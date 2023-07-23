@@ -96,10 +96,12 @@ JavaScriptというプログラミング言語と相性の良いオブジェク�
 
 ## JSON　映画情報 (追加課題)
 
+```
 "MovieInfo":[
   {"Movies":1, "title":"シーシャンクの空に", "director":"フランク・ダラボン", "published_year":1995}
   {"Movies":2, "title":"アナと雪の女王", "director":"クリス・バック, ジェニファー・リー", "published_year":2013}
 ]
+```
 
 <br>
 
